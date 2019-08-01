@@ -1,0 +1,10 @@
+/********
+   How to use conditionals. Original program. 
+   PimentaConditionals.c
+   Jenna Pimenta
+   C Programming *******/
+#include <stdio.h>
+
+main ()
+{
+    // Define the integer to hold the user's guess and then get it from the user

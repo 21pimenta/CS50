@@ -1,0 +1,11 @@
+/********
+   A program using an example of (switch). Modeled after program on pg 152 of Chicken book. 
+   PimentaSwitch2.c
+   Jenna Pimenta
+   C Programming *******/
+#include <stdio.h>
+#include <math.h> 
+#define CURRENTYEAR 2017
+int main() 
+{
+    int choice;
